@@ -4,7 +4,7 @@ CHALLENGE: Investing Tech
 
 STATEMENT: The Contest aims to prototype ideas, products, and services that integrate technology into improving digital customer experiences, which could be further developed into real businesses.
 
-CHALLENGE: What innovative financial technologies or capabilities can we create to enhance investing tech?
+CHALLENGE: How can we enhance investing tech?
 
 PRESENTATION SLIDE DECK: to be added
 
