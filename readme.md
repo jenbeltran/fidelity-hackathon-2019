@@ -19,7 +19,7 @@ DESIGNS:
 https://www.figma.com/file/nPRrI6oNqoe1Hrs1XoV8Rf/Fidelity-Hackathon?node-id=0%3A1
 
 WEB APPLICATION: 
-HTML, CSS, React - We initially decided to use Ejs but felt React better suited our needs. Please see the UPDATED GTIHUB link for the new repo.
+HTML, CSS, React - We initially decided to use Ejs but felt React better suited our needs. Please see the UPDATED GITHUB link for the new repo.
 
 Role in hackathon: Product manager and pitch leader
 
