@@ -6,11 +6,22 @@ STATEMENT: The Contest aims to prototype ideas, products, and services that inte
 
 CHALLENGE: How can we enhance investing tech?
 
-PRESENTATION SLIDE DECK: to be added
+DEVPOST SUBMISSION:
+https://devpost.com/software/fidelity_app_two
 
-DESIGNS: https://www.figma.com/file/nPRrI6oNqoe1Hrs1XoV8Rf/Fidelity-Hackathon?node-id=0%3A1
+UPDATED GITHUB: 
+https://github.com/N1m3s17/fidelity_app_two
 
-WEB APPLICATION: HTML, CSS, nodeJS, ExpressJS, EJS
+PRESENTATION SLIDE DECK: 
+https://drive.google.com/file/d/1ePs6iKpEXnUOV8k8cjQk-vEcqckgmPAM/view
+
+DESIGNS: 
+https://www.figma.com/file/nPRrI6oNqoe1Hrs1XoV8Rf/Fidelity-Hackathon?node-id=0%3A1
+
+WEB APPLICATION: 
+HTML, CSS, React - We initially decided to use Ejs but felt React better suited our needs. Please see the UPDATED GTIHUB link for the new repo.
+
+Role in hackathon: Product manager and pitch leader
 
 To open the appliation: 
 ```
